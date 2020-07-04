@@ -28,9 +28,9 @@ FixedPointsArduino-master  (can be copied from ESPboy_Arduboy2_lib/libs)
 
 
 
-===========================================================================
+
 Please refer to the folllowing original ESPBoy videos for more details of how to buy the kit, or the circuit diagram to DIY one yourself.
-=============================================================================
+
 Original Video on how to build the original ESPBoy DIY kit
 https://www.youtube.com/watch?v=GIrp5Vpr2Ns&t=62s
 
