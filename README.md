@@ -1,6 +1,12 @@
 # espboy_libraries_combined
 
-For easier ESPBoy Arduboy2 Arduino IDE library configuration, this repo porvides all the libraries you need to compile a game using the Arduino IDE.
+For easier ESPBoy Arduboy2 Arduino IDE library configuration, this repo provides all the extra libraries you need to compile a game using the Arduino IDE.
+This library does not include the original Espboy_Arduboy2_lib and the associated games.
+Please go to the original github of ESPboy edu to download that library first.
+https://github.com/ESPboy-edu/ESPboy_Arduboy2_lib
+
+Then download this extra libraries to complete the configurations of the libraries for ESPBoy Arduboy2.
+
 Refer to my video here on the instructions:
 
 ESPBoy Arduboy2 Arduino IDE libraries configuration:
@@ -45,7 +51,7 @@ https://www.youtube.com/watch?
 
 
 🔥Buy ESPboy https://www.tindie.com/products/18194
-💥Build video instruction by @AccidentalRebel: 
+💥Build video instruction by @AccidentalRebel:
 https://www.youtube.com/watch?v=GIrp5Vpr2Ns&t=62s
 
 
